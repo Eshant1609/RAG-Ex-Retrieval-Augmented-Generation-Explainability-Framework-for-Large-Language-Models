@@ -1,0 +1,22 @@
+{
+  "summary_id": "cae878f9-31d9-426f-b997-fbee7e88d91f",
+  "summary": "Based on the provided summary of Document 1, here are the key points:\n\n* RAG-Ex is a tool that improves transparency in retrieval-augmented generation pipelines.\n* It tracks various stages of query processing, retrieval, relevance scoring, and response generation.\n* RAG-Ex highlights source documents and evidence attribution to reduce hallucinations.\n* The tool has use cases in multiple industries, including:\n + Enterprise\n + Healthcare\n + Legal research\n + Education\n\nNo specific findings or conclusions are mentioned in the summary.",
+  "metadata": {
+    "query": "Summarize in key points",
+    "document_ids": [
+      "958d5a12-d79b-49e6-8255-410d5ccb05a7"
+    ],
+    "folder_ids": [],
+    "type": "key_points",
+    "sources": [
+      {
+        "document_id": "958d5a12-d79b-49e6-8255-410d5ccb05a7",
+        "title": "RAG-Ex Test Document RAG-Ex improves transparency in retrieval-augmented generation pipelines",
+        "filename": "rag_ex_e2e_8730767f.pdf",
+        "relevance_score": 0.0
+      }
+    ],
+    "created_at": "2026-02-24T11:54:06.635806"
+  },
+  "created_at": "2026-02-24T11:54:06.635806"
+}

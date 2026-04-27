@@ -1,0 +1,43 @@
+{
+  "summary_id": "b9c7b660-f458-48a6-9acb-a6e2d7e4a3bc",
+  "summary": "The text appears to be a collection of research articles and findings related to various topics in medical sciences, including pregnancy complications, wound healing, and tissue engineering. Some key points and themes that emerge from the text include:\n\n1. **Pregnancy complications**: The text mentions the risks associated with obesity during pregnancy, including prolonged labor, macrosomia, and increased risk of complications.\n2. **Wound healing**: The article discusses the importance of creating a moist environment around wounds to promote healing, and highlights the use of electrospinning technology to create wound dressings with high porosity and spatial interconnectivity.\n3. **Tissue engineering**: The text mentions the use of electrospun nanofibers for tissue engineering applications, including the creation of scaffolds for cell growth and differentiation.\n4. **Smoking during pregnancy**: The article highlights the negative effects of smoking on placental development and fetal health, and discusses the importance of smoking cessation in pregnant women.\n5. **Wound dressings**: The text mentions various types of wound dressings, including films, foams, hydrocolloids, hydrogels, and alginates, and discusses their properties and uses.\n\nSome specific findings mentioned in the text include:\n\n* Obesity is associated with an increased risk of pregnancy complications, including prolonged labor and macrosomia.\n* Electrospun nanofibers can be used to create wound dressings that promote healing and tissue regeneration.\n* Smoking during pregnancy can lead to placental abnormalities and fetal health problems.\n* The use of electrospinning technology can improve the properties of wound dressings, making them more effective at promoting healing.\n\nOverall, the text appears to be a collection of research articles and findings related to various topics in medical sciences, including pregnancy complications, wound healing, and tissue engineering.",
+  "metadata": {
+    "query": "tell me about  Drugs That Destabilize HIF-1\u03b1",
+    "document_ids": [
+      "62f18278-fe2b-41d4-81da-63923ec72f64"
+    ],
+    "folder_ids": [
+      "7a80168c-b48f-4373-96a5-cf34879c7184"
+    ],
+    "type": "key_points",
+    "sources": [
+      {
+        "document_id": "62f18278-fe2b-41d4-81da-63923ec72f64",
+        "title": "Medical Diagnosis and Treatment Methods in Basic Medical Sciences Editor Prof",
+        "filename": "Medical_Diagnosis_and_Treatment_Methods_in_Basic_Medical_Sciences.pdf",
+        "max_relevance_score": 0.6980224330274363,
+        "relevance_score": 0.6980224330274363,
+        "chunk_count": 411,
+        "top_chunks": [
+          {
+            "chunk_index": 78,
+            "relevance_score": 0.698,
+            "preview": "involve HIF-1\u03b1 inhibition, have already been approved and widely used for the treatment of several cancers. However, efforts to develop new agents that directly inhibit HIF-1\u03b1 is still growing 16,17. In this chapter, we "
+          },
+          {
+            "chunk_index": 101,
+            "relevance_score": 0.6119,
+            "preview": "t be found in clinicaltrial.gov that suggest the further evaluation of PX-478 in clinical studies. CONCLUSION Clinical development of HIF-1\u03b1 inhibitors for cancer treatment is ongoing at a great pace. Till the safety and"
+          },
+          {
+            "chunk_index": 100,
+            "relevance_score": 0.6108,
+            "preview": "anti-HIF-1 action at multiple levels which makes it an attractive agent in cancer therapy. 5b. PX-478 PX-478 is a melphalan derivative that downregulates the HIF-1\u03b1 mRNA and inhibits its translation. It was also reported"
+          }
+        ]
+      }
+    ],
+    "created_at": "2026-02-24T12:36:20.912100"
+  },
+  "created_at": "2026-02-24T12:36:20.912100"
+}

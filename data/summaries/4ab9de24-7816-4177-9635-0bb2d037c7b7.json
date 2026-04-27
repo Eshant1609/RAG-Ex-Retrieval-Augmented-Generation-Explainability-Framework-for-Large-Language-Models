@@ -1,0 +1,41 @@
+{
+  "summary_id": "4ab9de24-7816-4177-9635-0bb2d037c7b7",
+  "summary": "Here is a bulleted list of key points, findings, and conclusions from the research documents:\n\n**Key Points:**\n\n* RAASHISH AGGARWAL has experience as a Software Development Engineer 1 (Frontend) at CARS24 Gurgaon.\n* He implemented various features such as an internal RAG-based search tool, React lead-generation form, and flexible widget-driven CMS architecture.\n* He improved user engagement and click-through consistency across flows through A/B testing and UI optimization.\n* He contributed to the development of personalized DSA preparation lists and a hashtag plugin for content creation.\n* He implemented core flows including authentication, cart management, and checkout for an e-commerce module.\n\n**Findings:**\n\n* The use of flexible widget-driven CMS architecture improved post search performance by 30%.\n* A/B testing showed improvements in user engagement and click-through consistency across flows.\n* Code splitting, lazy loading, and dependency cleanup reduced JS bundle size by 70.\n* Input sanitization and safer API handling improved frontend security.\n* Automated lead-form workflow using Playwright removed manual data entry and sped up sales operations.\n\n**Conclusions:**\n\n* RAASHISH AGGARWAL's technical skills include JavaScript, TypeScript, C, HTML, CSS, React.js, Next.js, Redux, and micro-frontends.\n* His experience with e-commerce modules and flexible CMS architectures demonstrates his ability to work on complex projects.\n* His contributions to personalized DSA preparation lists and content creation suggest that he is skilled in developing features for user engagement and productivity.\n* His use of AI tools such as GitHub Copilot and internal AI tools suggests that he is familiar with leveraging technology to improve development efficiency.",
+  "metadata": {
+    "query": "summarize companies from selected resume",
+    "document_ids": [
+      "18c6b9f7-71e5-4796-9527-eabe9cc6de89"
+    ],
+    "folder_ids": [],
+    "type": "key_points",
+    "sources": [
+      {
+        "document_id": "18c6b9f7-71e5-4796-9527-eabe9cc6de89",
+        "title": "RAASHISH AGGARWAL 91-8800555656 Gurgaon, India raashish1601 gmail",
+        "filename": "resumeRaashish.pdf",
+        "max_relevance_score": 0.19877501999288183,
+        "relevance_score": 0.19877501999288183,
+        "chunk_count": 4,
+        "top_chunks": [
+          {
+            "chunk_index": 2,
+            "relevance_score": 0.1988,
+            "preview": "dded keyword-highlighting for better UX. Contributed to the My Sprint feature enabling personalized DSA preparation lists. Added a hashtag plugin to the lexical-dev editor to improve content creation. Built Copy Link sha"
+          },
+          {
+            "chunk_index": 0,
+            "relevance_score": 0.1389,
+            "preview": "RAASHISH AGGARWAL 91-8800555656 Gurgaon, India raashish1601 gmail.com Portfolio Linkedin Github Leetcode GfG EXPERIENCE Software Development Engineer 1 (Frontend) August 2024 - Present CARS24 Gurgaon BuiltaninternalRAG-b"
+          },
+          {
+            "chunk_index": 3,
+            "relevance_score": 0.1004,
+            "preview": "d across campaigns reaching 50,000 users. Software Development Intern Jul 2022 - Aug 2022 Nagarro Delhi Implementedcoreflowsincludingauthentication, cart management, and checkoutforane-commercemodule. SKILLS Languages Ja"
+          }
+        ]
+      }
+    ],
+    "created_at": "2026-02-24T12:38:17.088010"
+  },
+  "created_at": "2026-02-24T12:38:17.088010"
+}
